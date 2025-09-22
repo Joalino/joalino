@@ -1,3 +1,7 @@
+![].(banner.jpg).
+ <h1 aligh="center">tudo sobre TEI</h1>
+ <h1 aligh "center">Git,Github,Hardware,arduino,etc</h1>
+ 
 # 👋 Olá, bem-vindo ao meu GitHub!
 
 🎓 Atualmente sou estudante do **Curso Técnico em Informática**, onde desenvolvo habilidades em hardware, sistemas operacionais, programação, banco de dados e muito mais.  
