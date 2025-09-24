@@ -1,4 +1,6 @@
-![].(banner.jpg).
+<img width="1200" height="514" alt="image" src="https://github.com/user-attachments/assets/64276c36-9fd1-4edb-ba89-64b6f7db442f" />
+
+
  <h1 aligh="center">tudo sobre TEI</h1>
  <h1 aligh "center">Git,Github,Hardware,arduino,etc</h1>
  
